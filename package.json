@@ -1,5 +1,6 @@
 {
   "name": "flot.curvedlines",
+  "version": "1.0.0",
   "main": "curvedLines.js",
   "authors": [
     "Michael Zinsmaier"
