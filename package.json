@@ -12,6 +12,6 @@
     "!bower.json"
   ],
   "dependencies": {
-     "flot": ">=0.8.0"
+     "flot": ">=0.8.0-alpha"
   }
 }
